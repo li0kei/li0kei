@@ -26,45 +26,88 @@ Interested in web, mobile, networking, systems, and figuring out how things work
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🅿️ PARKUTeM
+<h3>🅿️ PARKUTeM</h3>
+
 IoT + ANPR smart parking system.
 
-`Flutter` `Dart` `Python` `ESP32`
+<code>Flutter</code>
+<code>Dart</code>
+<code>Python</code>
+<code>ESP32</code>
 
-[Repository →](https://github.com/li0kei/parkutem-mobile-app)
+<br><br>
+
+<a href="https://github.com/li0kei/parkutem-mobile-app">Repository →</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### ◈ Web Platforms
+<h3>◈ Web Platforms</h3>
+
 Dashboards, portals, auth, APIs, and data workflows.
 
-`React` `TypeScript` `NestJS` `PostgreSQL`
+<code>React</code>
+<code>TypeScript</code>
+<code>NestJS</code>
+<code>PostgreSQL</code>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### ⚛ React Builds
+<h3>⚛ React Builds</h3>
+
 Interfaces, responsive UI, API integration, and frontend experiments.
 
-`React` `TypeScript` `Vite` `Supabase`
+<code>React</code>
+<code>TypeScript</code>
+<code>Vite</code>
+<code>Supabase</code>
 
 </td>
+
 <td width="50%" valign="top">
 
-### ⌘ Networking
+<h3>⌘ Networking</h3>
+
 My degree focus alongside practical software projects.
 
-`Networking` `Systems`
+<code>Networking</code>
+<code>Systems</code>
 
 </td>
+
 </tr>
 </table>
+
+## ♡ Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/li0kei/li0kei/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/li0kei/li0kei/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="li0kei contribution snake"
+      src="https://raw.githubusercontent.com/li0kei/li0kei/output/github-contribution-grid-snake-dark.svg"
+    />
+  </picture>
+</p>
+
+## ✦ Languages
 
 <p align="center">
   <img
