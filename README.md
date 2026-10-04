@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/pixie-hero.svg" width="100%" alt="pixie — Computer Science student majoring in networking" />
+  <img src="./pixie-hero.svg" width="100%" alt="pixie — Computer Science student majoring in networking" />
 </p>
 
 <p align="center">
