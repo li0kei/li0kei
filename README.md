@@ -90,6 +90,8 @@ My degree focus alongside practical software projects.
 
 ## ♡ Contributions
 
+## ♡ Contributions
+
 <p align="center">
   <picture>
     <source
